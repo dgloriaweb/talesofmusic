@@ -13,10 +13,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Articles',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Article 1', link: '/slaboutjp' },
+          { text: 'Template', link: '/markdown-examples' }
         ]
       }
     ],

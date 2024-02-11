@@ -5,14 +5,11 @@ layout: home
 hero:
   name: "Tales Of Music"
   text: "A music blog"
-  tagline: My great project tagline
+  tagline: Facts and thoughts about music from the last century
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Articles
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
   - title: Feature A
